@@ -1,0 +1,63 @@
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    color: rgb(0, 0, 0);
+    background-color: rgba(1, 79, 189, 0.296);
+    text-align: center;
+}
+li{
+    font-size: 14px;
+    font-style: italics;
+    font-weight: normal;
+}
+a{
+    text-decoration: none;
+    }
+a:hover{
+    text-decoration: underline;
+    font-weight: bold;
+    font-size: 18px;
+}
+a:visted{
+    color: blue;
+}
+h1{
+    font-size: 20px;
+    color: blue;
+}
+.rsh{
+    font-weight: bold;
+    /* font-style: normal; */
+}
+.underline{
+    text-decoration: underline;}
+.bold{font-weight: bold;}
+.justify{text-align: justify;}
+
+.homebg{
+    background-color: rgba(255, 255, 0, 0.618);
+    background-position: center;
+}
+
+.center{
+    text-align: center;
+}
+
+.header{
+    /* border: 50px yellow; */
+    background-color: rgb(255, 208, 1);
+    padding-top: 30px;
+}
+
+.mission{
+    background-color: rgb(255, 208, 1);
+}
+
+.list{
+    text-align: left;
+}
+
+.leftmenu{
+    top: 50px;
+}
